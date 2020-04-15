@@ -1,0 +1,75 @@
+************************************* Invoked: Wed Apr 15 15:59:37 2020
+[0] Arguments: C:\Users\fateme\Documents\3-QtInstallerFramework\HelloWorld-desktop\HelloWorld-desktop.exe
+[9] Operations sanity check succeeded.
+[23509] Installation space required: "98.11 MB" Temporary space required: "0.00 bytes" Local repository size: "0.00 bytes"
+[23512] Tmp and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "121.71 GB"
+[24867] backup  operation: Mkdir
+[24867] 	- arguments: C:/Users/fateme/My First App
+[24867] Done
+[24868] perform  operation: Mkdir
+[24868] 	- arguments: C:/Users/fateme/My First App
+[24868] Done
+[24868] Install size: 1 components
+[24907] backup com.myfirstapp operation: Extract
+[24907] 	- arguments: installer://com.myfirstapp/0.1.0-1content.7z, C:\Users\fateme\My First App
+[24907] Done
+[24908] perform com.myfirstapp operation: Extract
+[24908] 	- arguments: installer://com.myfirstapp/0.1.0-1content.7z, C:\Users\fateme\My First App
+[27238] Done
+[27238] backup com.myfirstapp operation: Extract
+[27238] 	- arguments: installer://com.myfirstapp/0.1.0-1iconengines.7z, C:\Users\fateme\My First App
+[27238] Done
+[27238] perform com.myfirstapp operation: Extract
+[27238] 	- arguments: installer://com.myfirstapp/0.1.0-1iconengines.7z, C:\Users\fateme\My First App
+[27262] Done
+[27262] backup com.myfirstapp operation: Extract
+[27262] 	- arguments: installer://com.myfirstapp/0.1.0-1imageformats.7z, C:\Users\fateme\My First App
+[27262] Done
+[27262] perform com.myfirstapp operation: Extract
+[27262] 	- arguments: installer://com.myfirstapp/0.1.0-1imageformats.7z, C:\Users\fateme\My First App
+[27464] Done
+[27464] backup com.myfirstapp operation: Extract
+[27464] 	- arguments: installer://com.myfirstapp/0.1.0-1platforminputcontexts.7z, C:\Users\fateme\My First App
+[27464] Done
+[27465] perform com.myfirstapp operation: Extract
+[27465] 	- arguments: installer://com.myfirstapp/0.1.0-1platforminputcontexts.7z, C:\Users\fateme\My First App
+[27494] Done
+[27495] backup com.myfirstapp operation: Extract
+[27495] 	- arguments: installer://com.myfirstapp/0.1.0-1platforms.7z, C:\Users\fateme\My First App
+[27495] Done
+[27495] perform com.myfirstapp operation: Extract
+[27495] 	- arguments: installer://com.myfirstapp/0.1.0-1platforms.7z, C:\Users\fateme\My First App
+[27596] Done
+[27596] backup com.myfirstapp operation: Extract
+[27596] 	- arguments: installer://com.myfirstapp/0.1.0-1qmltooling.7z, C:\Users\fateme\My First App
+[27596] Done
+[27596] perform com.myfirstapp operation: Extract
+[27596] 	- arguments: installer://com.myfirstapp/0.1.0-1qmltooling.7z, C:\Users\fateme\My First App
+[27808] Done
+[27808] backup com.myfirstapp operation: Extract
+[27808] 	- arguments: installer://com.myfirstapp/0.1.0-1styles.7z, C:\Users\fateme\My First App
+[27808] Done
+[27808] perform com.myfirstapp operation: Extract
+[27808] 	- arguments: installer://com.myfirstapp/0.1.0-1styles.7z, C:\Users\fateme\My First App
+[27840] Done
+[27840] backup com.myfirstapp operation: Extract
+[27840] 	- arguments: installer://com.myfirstapp/0.1.0-1translations.7z, C:\Users\fateme\My First App
+[27840] Done
+[27840] perform com.myfirstapp operation: Extract
+[27840] 	- arguments: installer://com.myfirstapp/0.1.0-1translations.7z, C:\Users\fateme\My First App
+[28035] Done
+[28035] backup com.myfirstapp operation: Extract
+[28035] 	- arguments: installer://com.myfirstapp/0.1.0-1virtualkeyboard.7z, C:\Users\fateme\My First App
+[28035] Done
+[28035] perform com.myfirstapp operation: Extract
+[28035] 	- arguments: installer://com.myfirstapp/0.1.0-1virtualkeyboard.7z, C:\Users\fateme\My First App
+[28254] Done
+[28254] backup com.myfirstapp operation: License
+[28254] 	- arguments:
+[28254] Done
+[28254] perform com.myfirstapp operation: License
+[28254] 	- arguments:
+[28260] Done
+[28272] Writing maintenance tool: "C:\\Users\\fateme\\My First App/maintenancetool.exe.new"
+[28460] Wrote permissions for maintenance tool.
+[28603] Maintenance tool restart: false.

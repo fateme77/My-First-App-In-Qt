@@ -1,0 +1,14 @@
+<Packages>
+    <ApplicationName>My First App</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>com.myfirstapp</Name>
+        <Title>The root component</Title>
+        <Description>Install it.</Description>
+        <Version>0.1.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2020-04-15</InstallDate>
+        <Size>93522308</Size>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>
